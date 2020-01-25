@@ -4,6 +4,6 @@ It's a mocking medical board web application (deigned for ipad size), with tab t
 Built with HTML, CSS, AJAX, JavaScript, jQuery.
 
 Small demo: Built with HTML, CSS, AJAX, JavaScript, jQuery.
-![]demo.png
+![](demo.png)
 
 Note: No open source allowed due to company confidential reason.
